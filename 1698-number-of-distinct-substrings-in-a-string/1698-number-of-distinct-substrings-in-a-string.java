@@ -1,16 +1,5 @@
 public class Node {
-    Node[] links;
-    
-    Node () {
-        links = new Node[26];
-    }
-    
-    public void put(char c, Node node) {
-        links[c - 'a'] = node;
-    }
-    public Node get(char c) {
-        return links[c - 'a'];
-    }
+    Node[] children = new Node[26];
 }
 
 class Solution {
@@ -18,21 +7,20 @@ class Solution {
         /*
             ServiceNow - 3
         */
-        int cnt = 0;
         Node root = new Node();
-        
+        int res = 0;
         for (int i = 0; i < s.length(); i++) {
             Node cur = root;
             
             for (int j = i; j < s.length(); j++) {
-                if (cur.get(s.charAt(j)) == null) {
-                    cnt++;
-                    cur.put(s.charAt(j), new Node());
+                int cur_char_index = s.charAt(j) - 'a';
+                if (cur.children[cur_char_index] == null) {
+                    cur.children[cur_char_index] = new Node();
+                    res++;
                 }
-                cur = cur.get(s.charAt(j));
+                cur = cur.children[cur_char_index];
             }
         }
-        
-        return cnt;
+        return res;
     }
 }
