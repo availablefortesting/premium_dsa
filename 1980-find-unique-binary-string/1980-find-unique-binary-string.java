@@ -19,7 +19,9 @@ class Solution {
         for (int i = 0; i < Math.pow(2, n); i++) {
             if (!uniques.contains(i)) {
                 String res = Integer.toBinaryString(i);
-                return cover.substring(res.length()) + res;
+                // return cover.substring(res.length()) + res;
+                
+                return String.format("%"+n+"s", res).replace(' ','0');
             }
         }
         
