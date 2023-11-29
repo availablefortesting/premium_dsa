@@ -3,18 +3,21 @@ class Solution {
         List<String> res = new ArrayList<>();
         
         for (int i = 1; i <= n; i++) {
-            boolean divisibleBy3 = i % 3 == 0 ? true : false;
-            boolean divisibleBy5 = i % 5 == 0 ? true : false;
+            boolean divisibleBy3 = (i % 3 == 0);
+            boolean divisibleBy5 = (i % 5 == 0);
             
-            if (divisibleBy3 && divisibleBy5) {
-                res.add("FizzBuzz");
-            } else if (divisibleBy3) {
-                res.add("Fizz");
-            } else if (divisibleBy5) {
-                res.add("Buzz");
-            } else {
-                res.add(""+i);
+            String temp = "";
+            if (divisibleBy3) {
+                temp += "Fizz";
+            } 
+            if (divisibleBy5) {
+                temp += "Buzz";
+            } 
+             if ("".equals(temp)) {
+                temp += i;
             }
+            
+            res.add(temp);
         }
         
         return res;
