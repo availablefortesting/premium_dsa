@@ -17,13 +17,15 @@ class Solution {
     public int closestValue(TreeNode root, double target) {
 
         int closest_node = Integer.MAX_VALUE;
+        double closest_diff = Double.MAX_VALUE;
         
         while (root != null) {
             double cur_diff = Math.abs(root.val - target);
-            double closest_diff = Math.abs(closest_node - target);
             
-            if (cur_diff < closest_diff || (cur_diff == closest_diff && root.val < closest_node) )
+            if ( (cur_diff < closest_diff) || (cur_diff == closest_diff && root.val < closest_node) ) {
                 closest_node = root.val;
+                closest_diff = cur_diff;
+            }
 
             if (target < root.val)
                 root = root.left;
