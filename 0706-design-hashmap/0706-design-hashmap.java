@@ -1,6 +1,6 @@
 class MyHashMap {
-    private final int table_size = 9901;
-    private final int bucket_size = 101;
+    private final int table_size = 1001;
+    private final int bucket_size = 1001;
     private int[][] map;
     
     public MyHashMap() {
