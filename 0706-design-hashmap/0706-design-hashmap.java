@@ -1,5 +1,5 @@
 class MyHashMap {
-    private final int table_size = 10001;
+    private final int table_size = 9901;
     private final int bucket_size = 101;
     private int[][] map;
     
