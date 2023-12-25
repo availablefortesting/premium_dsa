@@ -1,29 +1,23 @@
 class Solution {
     public int numDecodings(String s) {
         int n = s.length();
-        int[] dp = new int[n+1];
-        dp[0] = 1;
-        char prev = 'a';
+        int[] dp = new int[n + 1];
+        dp[0] = 1; // empty string
+        dp[1] = s.charAt(0) == '0' ? 0 : 1;
+        char prev = s.charAt(0), cur = '#';
         
-        for (int i = 0; i < n; i++) {
-            char cur = s.charAt(i);
-            
-            if (cur == '0'){
-                if (prev <= '0' || prev > '2')
-                    return 0;
-                else
-                    dp[i+1] += dp[i-1];
-            } else {
-                dp[i+1] = dp[i];
-                if (prev == '1' || prev == '2' && cur <= '6')
-                    dp[i+1] += dp[i-1]; 
+        for (int i = 2; i < n + 1; i++) {
+            cur = s.charAt(i - 1);
+            if (cur != '0') {
+                dp[i] += dp[i - 1];
+            }
+            if (prev == '1' || prev == '2' && cur <= '6') {
+                dp[i] += dp[i - 2];
             }
             
             prev = cur;
         }
         
-        // for (int d : dp) 
-        //     System.out.println(d);
         return dp[n];
     }
 }
