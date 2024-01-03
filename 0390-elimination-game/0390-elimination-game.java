@@ -20,5 +20,6 @@ class Solution {
     public int lastRemaining(int n) {
         // return simulation(n);
         return n == 1 ? 1 : 2 * (n/2 + 1 - lastRemaining(n/2));
+        // explanation: https://leetcode.com/problems/elimination-game/discuss/982449/Step-by-step-explanation-to-1-liner
     }
 }
