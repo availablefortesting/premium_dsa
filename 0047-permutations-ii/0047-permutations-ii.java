@@ -16,7 +16,7 @@ class Solution {
         }
         
         for (int i = 0; i < nums.length; i++) {
-            if (used[i] || i > 0 && nums[i-1] == nums[i] && used[i-1])    continue;
+            if (used[i] || i > 0 && nums[i-1] == nums[i] && !used[i-1])    continue;
             
             currResult.add(nums[i]);
             used[i] = true;
