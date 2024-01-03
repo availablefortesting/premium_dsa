@@ -1,23 +1,20 @@
 class Solution {
     public int numberOfBeams(String[] bank) {
-        int m = bank.length, n = bank[0].length();
-        String emptyRow = "0".repeat(n);
-        int beams = 0;
-        
-        int prev_r = 0, next_r = 0;
-        while (prev_r < m && bank[prev_r].equals(emptyRow))
-            prev_r++;
-        
-        while (next_r < m) {
-            next_r = prev_r + 1;
-            while (next_r < m && bank[next_r].equals(emptyRow))
-                next_r++;
-            
-            if (next_r < m)
-                beams += (bank[prev_r].chars().filter(c -> c == '1').count()) * (bank[next_r].chars().filter(c -> c == '1').count());
-            prev_r = next_r;
+        int prev = 0, ans = 0;
+
+        for (String s: bank) {
+          int count = 0;
+          for (int i = 0; i < s.length(); i++)
+            if (s.charAt(i) == '1') {
+              count++;
+            }
+
+          if (count > 0) {
+            ans += prev * count;
+            prev = count;
+          }
         }
-        
-        return beams;
+
+        return ans;
     }
 }
