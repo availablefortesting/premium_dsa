@@ -1,40 +1,26 @@
 class Solution {
-    private boolean isMapEqual(HashMap<Character, Integer> a, HashMap<Character, Integer> b) {
-        for (char key : b.keySet())
-            if (!a.containsKey(key) || a.get(key) < b.get(key))
-                return false;
-        
-        return true;
-    }
-    
     public String minWindow(String s, String t) {
-        HashMap<Character, Integer> t_map = new HashMap<>();
-        HashMap<Character, Integer> s_map = new HashMap<>();
-        
+        int[] map = new int[128];
         for (char c : t.toCharArray())
-            t_map.put(c, 1 + t_map.getOrDefault(c, 0));
+            map[c]++;
         
-        int l = 0, min_win_len = Integer.MAX_VALUE, required_len = t_map.size();
-        String min_win_substr = "";
-        for (int r = 0; r < s.length(); r++) {
-            s_map.put(s.charAt(r), 1 + s_map.getOrDefault(s.charAt(r), 0));
+        int counter = t.length();
+        int l = 0, r = 0, d = Integer.MAX_VALUE, head = 0;
+        
+        while (r < s.length()) {
+            if (map[s.charAt(r++)]-- > 0)
+                counter--;
             
-            while (s_map.size() >= required_len && isMapEqual(s_map, t_map)) {
-                int cur_len = r - l + 1;
-                if (cur_len < min_win_len) {
-                    min_win_len = cur_len;
-                    min_win_substr = s.substring(l, r + 1);
-                }
+            while (counter == 0) { // valid
+                if (r - l < d) 
+                    d = r - (head = l);
                 
-                int cur_freq = s_map.get(s.charAt(l));
-                s_map.put(s.charAt(l), cur_freq - 1);
-                if (cur_freq == 1)
-                    s_map.remove(s.charAt(l));
-                
-                l++;
+                // only required char from t in s will have zero freq here, else would be negative
+                if (map[s.charAt(l++)]++ == 0)
+                    counter++;
             }
         }
         
-        return min_win_substr;
+        return (d == Integer.MAX_VALUE) ? "" : s.substring(head, head + d);
     }
 }
