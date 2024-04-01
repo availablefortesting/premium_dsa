@@ -10,7 +10,6 @@ class Solution {
             i--;
         }
         
-        System.out.println(sb.toString());
         return sb.length();
     }
 }
