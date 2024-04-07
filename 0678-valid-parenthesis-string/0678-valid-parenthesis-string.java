@@ -1,55 +1,27 @@
 class Solution {
-    private boolean recursive(String s, int cur, int open_cnt) {
-        if (open_cnt < 0)
-            return false;
-        
-        for (int i = cur; i < s.length(); i++) {
-            char cur_c = s.charAt(i);
-            
-            if (cur_c == '(')
-                open_cnt++;
-            else if (cur_c == ')') {
-                if (open_cnt <= 0)
-                    return false;
-                open_cnt--;
-            } else {
-                return recursive(s, i+1, open_cnt + 1) ||
-                        recursive(s, i+1, open_cnt - 1) ||
-                        recursive(s, i+1, open_cnt);
-            }
-        }
-        
-        return open_cnt == 0;
-    }
-    
-    private boolean efficient(String s) {
-        int open_max = 0, open_req = 0;
+    public boolean checkValidString(String s) {
+        int max_open_cnt = 0, req_open_cnt = 0;
         
         for (int i = 0; i < s.length(); i++) {
-            char cur_c = s.charAt(i);
-            
-            if (cur_c == '('){
-                open_max++; open_req++;
-            } else if (cur_c == ')') {
-                open_max--;
-                open_req = Math.max(open_req - 1, 0);
+            if (s.charAt(i) == '(') {
+                max_open_cnt++;
+                req_open_cnt++;
+            } else if (s.charAt(i) == ')') {
+                max_open_cnt--;
+                req_open_cnt--;
             } else {
-                open_max++;
-                open_req = Math.max(open_req - 1, 0);
+                max_open_cnt++; // '*' => '('
+                req_open_cnt--; // '*' => ')'
             }
             
-            if (open_max < 0)
-                return false;
+            // too many close ')' parenthesis there
+            if (max_open_cnt < 0)   return false;
+            
+            // if req_open_cnt is neg, means more ')' than '('
+            //      which is not required, so don't add more ('*' => '')
+            req_open_cnt = Math.max(req_open_cnt, 0);
         }
         
-        return open_req == 0;
-    }
-    
-    public boolean checkValidString(String s) {
-        /*
-            Microsoft - 2 | ServiceNow - 2
-        */
-        // return recursive(s, 0, 0);  // will give TLE 'cause it's O(3^n) - use memoization
-        return efficient(s);
+        return req_open_cnt == 0;
     }
 }
