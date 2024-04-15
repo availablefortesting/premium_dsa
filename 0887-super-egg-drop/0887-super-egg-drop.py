@@ -5,7 +5,7 @@ class Solution:
         
         m = 300 # assume max, 
         # (for N floor max moves can be N, but that's useless more computations)
-        dp = [[0 for _ in range(k + 1)] for _ in range(n + 1)]
+        dp = [[0 for _ in range(k + 1)] for _ in range(m + 1)]
         
         for moves in range(1, m + 1):
             for eggs in range(1, k + 1):
