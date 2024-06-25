@@ -17,7 +17,6 @@ class Solution {
     
     public TreeNode bstToGst(TreeNode root) {
         int totalSum = getSum(root);
-        System.out.println(totalSum);
         
         curSum = 0;
         changeBst(root, totalSum);
