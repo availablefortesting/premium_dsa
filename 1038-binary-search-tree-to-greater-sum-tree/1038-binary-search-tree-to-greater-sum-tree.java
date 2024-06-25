@@ -1,25 +1,14 @@
-class Solution {
-    static int curSum;
-    
-    private int getSum(TreeNode root) {
-        if (root == null)   return 0;
-        return root.val + getSum(root.left) + getSum(root.right);
-    }
-    
-    private void changeBst(TreeNode root, int totalSum) {
-        if (root == null)   return;
-        
-        changeBst(root.left, totalSum);
-        curSum += root.val;
-        root.val += totalSum - curSum;
-        changeBst(root.right, totalSum);
-    }
-    
+class Solution {  
+    int curSum = 0;
     public TreeNode bstToGst(TreeNode root) {
-        int totalSum = getSum(root);
+        if (root.right != null)
+            bstToGst(root.right);
         
-        curSum = 0;
-        changeBst(root, totalSum);
+        root.val += curSum;
+        curSum = root.val;
+        
+        if (root.left != null)
+            bstToGst(root.left);
         return root;
     }
 }
