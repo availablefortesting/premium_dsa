@@ -1,6 +1,5 @@
 class Node {
     int key, val, cnt;
-    
     Node prev, next;
     Node(int key, int val) {
         this.key = key;
@@ -12,7 +11,7 @@ class Node {
 class DLList {
     Node head, tail;
     int size;
-    
+
     DLList() {
         head = new Node(0, 0);
         tail = new Node(0, 0);
@@ -36,78 +35,66 @@ class DLList {
 
     Node removeLast() {
         if (size > 0) {
-            Node node = tail.prev;
-            remove(node);
-            return node;
+            Node lastNode = tail.prev;
+            remove(lastNode);
+            return lastNode;
+        } else {
+            return null;
         }
-        else return null;
     }
 }
-    
 class LFUCache {
-    int capacity, size, min_freq;
-    Map<Integer, Node> nodeMap;
-    Map<Integer, DLList> countMap;
-    
+    int cap, size, min_freq;
+    Map<Integer, Node> cache;
+    Map<Integer, DLList> freqMap;
+
     public LFUCache(int capacity) {
-        this.capacity = capacity;
-        nodeMap = new HashMap<>();
-        countMap = new HashMap<>();
+        this.cap = capacity;
+        cache = new HashMap<>();
+        freqMap = new HashMap<>();
+    }
+
+    private void update(Node node) {
+        DLList oldList = freqMap.get(node.cnt);
+        oldList.remove(node);
+
+        if (node.cnt == min_freq && oldList.size == 0) min_freq++;
+        node.cnt++;
+
+        freqMap.computeIfAbsent(node.cnt, k -> new DLList()).add(node);
     }
     
     public int get(int key) {
-        Node node = nodeMap.get(key);
-        if (node == null) return -1;
-        
-        update(node);
-        return node.val;
+        if (cache.containsKey(key)) {
+            Node node = cache.get(key);
+            update(node);
+            return node.val;
+        }
+
+        return -1;
     }
     
     public void put(int key, int value) {
-        if (capacity == 0) 
-            return;
-        
-        Node node;
-        if (nodeMap.containsKey(key)) {
-            node = nodeMap.get(key);
+        if (cap == 0) return;
+
+        if (cache.containsKey(key)) {
+            Node node = cache.get(key);
             node.val = value;
             update(node);
         } else {
-            // if we overload capacity (because we know for sure we are adding one new Node)
-            if (size == capacity) {
-                DLList least_freq_nodes = countMap.get(min_freq);
-                nodeMap.remove(least_freq_nodes.removeLast().key);
+            if (size == cap) {
+                cache.remove(freqMap.get(min_freq).removeLast().key);
                 size--;
             }
-            
-            // add new key-val pair
-            node = new Node(key, value);
-            nodeMap.put(key, node);
+
+            Node node = new Node(key, value);
+            cache.put(key, node);
             size++;
-            
-            // now min_freq will because 1
+
             min_freq = 1;
-            DLList newList = countMap.getOrDefault(node.cnt, new DLList());
-            newList.add(node);
-            countMap.put(node.cnt, newList);
+            freqMap.computeIfAbsent(node.cnt, k -> new DLList()).add(node);
         }
     }
-    
-    private void update(Node node) {
-        // get old DLL and remove node from it
-        DLList oldList = countMap.get(node.cnt);
-        oldList.remove(node);
-        
-        // now update the min_freq_count 
-        if (node.cnt == min_freq && oldList.size == 0) min_freq++; 
-        node.cnt++;
-        
-        // add new freq cnt in countMap
-        DLList newList = countMap.getOrDefault(node.cnt, new DLList());
-        newList.add(node);
-        countMap.put(node.cnt, newList);
-    }
-
 }
 
 /**
