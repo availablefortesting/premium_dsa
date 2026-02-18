@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/availablefortesting/premium_dsa/tree/master/0460-lfu-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/availablefortesting/premium_dsa/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
