@@ -15,14 +15,13 @@
  */
 class Solution {
     public int sumRootToLeaf(TreeNode root) {
-        return helper(root, "");
+        return dfs(root,0);
     }
-
-    public static int helper(TreeNode root, String num) {
-        if (root == null) return 0;
-
-        num += String.valueOf(root.val);
-        if (root.left == null && root.right == null) return Integer.parseInt(num, 2);
-        return helper(root.left, num) + helper(root.right, num);
+    public static int dfs(TreeNode node,int curr)
+    {
+        if(node==null) return 0;
+        curr = curr*2 + node.val;
+        if(node.left==null && node.right==null) return curr;
+        return dfs(node.left,curr) + dfs(node.right,curr);
     }
 }
