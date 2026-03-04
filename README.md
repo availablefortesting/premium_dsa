@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/0696-count-binary-substrings) |
+| [0984-string-without-aaa-or-bbb](https://github.com/availablefortesting/premium_dsa/tree/master/0984-string-without-aaa-or-bbb) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
+| [0984-string-without-aaa-or-bbb](https://github.com/availablefortesting/premium_dsa/tree/master/0984-string-without-aaa-or-bbb) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Sorting
 |  |
