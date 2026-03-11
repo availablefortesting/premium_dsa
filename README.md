@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/availablefortesting/premium_dsa/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/availablefortesting/premium_dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/availablefortesting/premium_dsa/tree/master/1009-complement-of-base-10-integer) |
 ## Two Pointers
 |  |
 | ------- |
