@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/0696-count-binary-substrings) |
 | [0984-string-without-aaa-or-bbb](https://github.com/availablefortesting/premium_dsa/tree/master/0984-string-without-aaa-or-bbb) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/availablefortesting/premium_dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/availablefortesting/premium_dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/availablefortesting/premium_dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
