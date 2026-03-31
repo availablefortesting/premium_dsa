@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/availablefortesting/premium_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0040-combination-sum-ii) |
+| [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0284-peeking-iterator) |
 | [0414-third-maximum-number](https://github.com/availablefortesting/premium_dsa/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Design
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Segment Tree
 |  |
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
