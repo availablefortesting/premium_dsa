@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0040-combination-sum-ii) |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0284-peeking-iterator) |
+| [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/availablefortesting/premium_dsa/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Math
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/availablefortesting/premium_dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
