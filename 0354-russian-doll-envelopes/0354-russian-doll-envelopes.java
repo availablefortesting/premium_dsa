@@ -4,15 +4,20 @@ class Solution {
         //    and to as we can't choose same width env, we always want to pick lowest height env incase of same width
         Arrays.sort(envelopes, (a,b) -> a[0] != b[0] ? a[0] - b[0] : b[1] - a[1]);
 
-        List<Integer> tails = new ArrayList<>();
-        for (int[] env : envelopes) {
-            int pos = Collections.binarySearch(tails, env[1]);
-            if (pos < 0)    pos = -(pos + 1);
+        // Step 2: LIS on heights
+        int[] dp = new int[envelopes.length];
+        int len = 0;
 
-            if (tails.size() == pos)    tails.add(env[1]);
-            else tails.set(pos, env[1]);
+        for (int[] env : envelopes) {
+            int height = env[1];
+
+            int index = Arrays.binarySearch(dp, 0, len, height);
+            if (index < 0) index = -(index + 1);
+
+            dp[index] = height;
+            if (index == len) len++;
         }
 
-        return tails.size();
+        return len;
     }
 }
