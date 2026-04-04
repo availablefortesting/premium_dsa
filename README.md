@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/availablefortesting/premium_dsa/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-rle-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0900-rle-iterator) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Math
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1622-fancy-sequence](https://github.com/availablefortesting/premium_dsa/tree/master/1622-fancy-sequence) |
 ## Counting
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
