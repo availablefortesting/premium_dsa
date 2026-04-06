@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/availablefortesting/premium_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/availablefortesting/premium_dsa/tree/master/0984-string-without-aaa-or-bbb) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/availablefortesting/premium_dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/availablefortesting/premium_dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
+| [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/availablefortesting/premium_dsa/tree/master/0984-string-without-aaa-or-bbb) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/availablefortesting/premium_dsa/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
+| [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
+| [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Design
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0460-lfu-cache](https://github.com/availablefortesting/premium_dsa/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
+| [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [0900-rle-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0900-rle-iterator) |
 ## Matrix
 |  |
