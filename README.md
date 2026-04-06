@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/availablefortesting/premium_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/availablefortesting/premium_dsa/tree/master/0984-string-without-aaa-or-bbb) |
+| [1405-longest-happy-string](https://github.com/availablefortesting/premium_dsa/tree/master/1405-longest-happy-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/availablefortesting/premium_dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/availablefortesting/premium_dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/availablefortesting/premium_dsa/tree/master/0984-string-without-aaa-or-bbb) |
+| [1405-longest-happy-string](https://github.com/availablefortesting/premium_dsa/tree/master/1405-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sorting
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/availablefortesting/premium_dsa/tree/master/1405-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Design
 |  |
