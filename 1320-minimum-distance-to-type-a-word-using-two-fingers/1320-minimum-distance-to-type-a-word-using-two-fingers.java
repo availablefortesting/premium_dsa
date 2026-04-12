@@ -1,51 +1,33 @@
 class Solution {
-    Map<Character,int[]> pos;
     int n;
     String word;
-    Integer[][][] dp;
+    int[][][] dp;
 
     public int minimumDistance(String word) {
-        this.n = word.length();
         this.word = word;
+        this.n = word.length();
 
-        pos = new HashMap<>();
-        pos.put('#', new int[]{-1, -1});
+        dp = new int[27][27][n];
+        for (int i = 0; i < 27; i++)
+            for (int j = 0; j < 27; j++)
+                Arrays.fill(dp[i][j], -1);
 
-        int cnt = 26;
-        char curr = 'A';
-
-        for (int i = 0; i < 6; i++)
-            for (int j = 0; j < 6; j++)
-                if (cnt-- > 0)
-                    pos.put(curr++, new int[]{i, j});
-
-        dp = new Integer[27][27][n]; 
-        return helper('#', '#', 0);
+        return helper(26, 26, 0); // 26 = no finger placed
     }
 
-    private int helper(char i, char j, int k) {
-        if (k == n) return 0;
+    private int helper(int f1, int f2, int k) {
+        if (k == n)                 return 0;
+        if (dp[f1][f2][k] != -1)    return dp[f1][f2][k];
 
-        int idxI = (i == '#') ? 26 : i - 'A';
-        int idxJ = (j == '#') ? 26 : j - 'A';
+        int curr = word.charAt(k) - 'A';
+        int moveF1 = distance(f1, curr) + helper(curr, f2, k + 1);
+        int moveF2 = distance(f2, curr) + helper(f1, curr, k + 1);
 
-        if (dp[idxI][idxJ][k] != null)  return dp[idxI][idxJ][k];
-
-        char curr = word.charAt(k);
-        int distI = distance(i, curr), distJ = distance(j, curr);
-
-        int res = Math.min(
-            distI + helper(curr, j, k + 1),
-            distJ + helper(i, curr, k + 1)
-        );
-
-        return dp[idxI][idxJ][k] = res;
+        return dp[f1][f2][k] = Math.min(moveF1, moveF2);
     }
 
-    private int distance(char a, char b) {
-        if (a == '#') return 0;
-
-        int[] p1 = pos.get(a), p2 = pos.get(b);
-        return Math.abs(p1[0] - p2[0]) + Math.abs(p1[1] - p2[1]);
+    private int distance(int a, int b) {
+        if (a == 26) return 0;  // finger not placed yet
+        return Math.abs(a / 6 - b / 6) + Math.abs(a % 6 - b % 6);
     }
 }
