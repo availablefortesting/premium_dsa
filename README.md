@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/availablefortesting/premium_dsa/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/availablefortesting/premium_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/availablefortesting/premium_dsa/tree/master/0556-next-greater-element-iii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/availablefortesting/premium_dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1622-fancy-sequence](https://github.com/availablefortesting/premium_dsa/tree/master/1622-fancy-sequence) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/availablefortesting/premium_dsa/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0696-count-binary-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/0696-count-binary-substrings) |
 ## Tree
