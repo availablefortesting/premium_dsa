@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/availablefortesting/premium_dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/availablefortesting/premium_dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/availablefortesting/premium_dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/availablefortesting/premium_dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Queue
 |  |
 | ------- |
