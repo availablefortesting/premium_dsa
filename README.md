@@ -174,15 +174,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/availablefortesting/premium_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/availablefortesting/premium_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/availablefortesting/premium_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/availablefortesting/premium_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Sliding Window
 |  |
