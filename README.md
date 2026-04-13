@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-rle-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0900-rle-iterator) |
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/availablefortesting/premium_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/availablefortesting/premium_dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/availablefortesting/premium_dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
