@@ -1,15 +1,25 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     char[] chars;
+    int n;
+    Map<Integer, Integer> memo = new HashMap<>();
 
     public int numDecodings(String s) {
         this.chars = s.toCharArray();
-        return dfs(0, s.length() - 1);
+        this.n = s.length();
+        return dfs(0, n - 1);
     }
 
     private int dfs(int i, int j) {
-        if (i > j) return 1; // decoded everything
-        if (chars[i] == '0') return 0; // can't start with 0
-        if (i == j) return 1; // single non-zero char
+        if (i > j) return 1;
+        if (chars[i] == '0') return 0;
+        if (i == j) return 1;
+
+        int key = i * n + j;
+        Integer cached = memo.get(key);
+        if (cached != null) return cached;
 
         int res = 0;
 
@@ -22,6 +32,7 @@ class Solution {
             res += dfs(i + 2, j);
         }
 
+        memo.put(key, res);
         return res;
     }
 }
