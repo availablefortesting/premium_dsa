@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/availablefortesting/premium_dsa/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/availablefortesting/premium_dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/availablefortesting/premium_dsa/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/availablefortesting/premium_dsa/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/availablefortesting/premium_dsa/tree/master/1405-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/availablefortesting/premium_dsa/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [0900-rle-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0900-rle-iterator) |
 ## Matrix
@@ -256,4 +261,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/availablefortesting/premium_dsa/tree/master/0729-my-calendar-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
