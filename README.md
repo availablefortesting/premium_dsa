@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/availablefortesting/premium_dsa/tree/master/0729-my-calendar-i) |
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-rle-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0900-rle-iterator) |
+| [1001-grid-illumination](https://github.com/availablefortesting/premium_dsa/tree/master/1001-grid-illumination) |
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/availablefortesting/premium_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/availablefortesting/premium_dsa/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
+| [1001-grid-illumination](https://github.com/availablefortesting/premium_dsa/tree/master/1001-grid-illumination) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
