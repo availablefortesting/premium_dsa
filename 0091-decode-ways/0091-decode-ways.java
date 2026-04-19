@@ -1,38 +1,19 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
-    char[] chars;
-    int n;
-    Map<Integer, Integer> memo = new HashMap<>();
-
     public int numDecodings(String s) {
-        this.chars = s.toCharArray();
-        this.n = s.length();
-        return dfs(0, n - 1);
-    }
+        int n = s.length();
+        char[] a = s.toCharArray();
 
-    private int dfs(int i, int j) {
-        if (i > j) return 1;
-        if (chars[i] == '0') return 0;
-        if (i == j) return 1;
+        int[] dp = new int[n + 1];
+        dp[0] = 1;                    // empty prefix
+        dp[1] = (a[0] == '0') ? 0 : 1;
 
-        int key = i * n + j;
-        Integer cached = memo.get(key);
-        if (cached != null) return cached;
+        for (int i = 2; i <= n; i++) {
+            char prev = a[i - 2], cur = a[i - 1];
 
-        int res = 0;
-
-        // take 1 digit
-        res += dfs(i + 1, j);
-
-        // take 2 digits if valid (10..26)
-        int val = (chars[i] - '0') * 10 + (chars[i + 1] - '0');
-        if (val >= 10 && val <= 26) {
-            res += dfs(i + 2, j);
+            if (cur != '0') dp[i] += dp[i - 1];
+            if (prev == '1' || (prev == '2' && cur <= '6')) dp[i] += dp[i - 2];
         }
 
-        memo.put(key, res);
-        return res;
+        return dp[n];
     }
 }
