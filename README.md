@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/availablefortesting/premium_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/availablefortesting/premium_dsa/tree/master/0051-n-queens) |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0284-peeking-iterator) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0045-jump-game-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0045-jump-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
