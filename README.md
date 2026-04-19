@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/availablefortesting/premium_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0968-binary-tree-cameras](https://github.com/availablefortesting/premium_dsa/tree/master/0968-binary-tree-cameras) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/availablefortesting/premium_dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -202,17 +203,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/availablefortesting/premium_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/availablefortesting/premium_dsa/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/availablefortesting/premium_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/availablefortesting/premium_dsa/tree/master/0417-pacific-atlantic-water-flow) |
+| [0968-binary-tree-cameras](https://github.com/availablefortesting/premium_dsa/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/availablefortesting/premium_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/availablefortesting/premium_dsa/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Sliding Window
 |  |
