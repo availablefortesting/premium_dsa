@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-rle-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0900-rle-iterator) |
 | [0905-sort-array-by-parity](https://github.com/availablefortesting/premium_dsa/tree/master/0905-sort-array-by-parity) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/availablefortesting/premium_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/availablefortesting/premium_dsa/tree/master/1001-grid-illumination) |
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/availablefortesting/premium_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0968-binary-tree-cameras](https://github.com/availablefortesting/premium_dsa/tree/master/0968-binary-tree-cameras) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/availablefortesting/premium_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/availablefortesting/premium_dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/availablefortesting/premium_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1000-minimum-cost-to-merge-stones](https://github.com/availablefortesting/premium_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
 ## Breadth-First Search
 |  |
