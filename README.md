@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/availablefortesting/premium_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
+| [0165-compare-version-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/availablefortesting/premium_dsa/tree/master/0556-next-greater-element-iii) |
 | [0639-decode-ways-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0639-decode-ways-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/availablefortesting/premium_dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/availablefortesting/premium_dsa/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/availablefortesting/premium_dsa/tree/master/0061-rotate-list) |
+| [0165-compare-version-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/availablefortesting/premium_dsa/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
