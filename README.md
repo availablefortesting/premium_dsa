@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/availablefortesting/premium_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/0165-compare-version-numbers) |
+| [0224-basic-calculator](https://github.com/availablefortesting/premium_dsa/tree/master/0224-basic-calculator) |
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/availablefortesting/premium_dsa/tree/master/0556-next-greater-element-iii) |
 | [0639-decode-ways-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0639-decode-ways-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/availablefortesting/premium_dsa/tree/master/0224-basic-calculator) |
 | [0503-next-greater-element-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/availablefortesting/premium_dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/availablefortesting/premium_dsa/tree/master/0224-basic-calculator) |
 | [0556-next-greater-element-iii](https://github.com/availablefortesting/premium_dsa/tree/master/0556-next-greater-element-iii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/availablefortesting/premium_dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/availablefortesting/premium_dsa/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
