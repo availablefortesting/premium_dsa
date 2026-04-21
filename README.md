@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/availablefortesting/premium_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/availablefortesting/premium_dsa/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/availablefortesting/premium_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/availablefortesting/premium_dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/availablefortesting/premium_dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [1001-grid-illumination](https://github.com/availablefortesting/premium_dsa/tree/master/1001-grid-illumination) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/availablefortesting/premium_dsa/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/availablefortesting/premium_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0968-binary-tree-cameras](https://github.com/availablefortesting/premium_dsa/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/availablefortesting/premium_dsa/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Binary Tree
 |  |
 | ------- |
