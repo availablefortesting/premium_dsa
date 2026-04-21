@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/availablefortesting/premium_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/availablefortesting/premium_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/availablefortesting/premium_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/availablefortesting/premium_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/availablefortesting/premium_dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/availablefortesting/premium_dsa/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/availablefortesting/premium_dsa/tree/master/0061-rotate-list) |
