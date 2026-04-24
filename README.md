@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/availablefortesting/premium_dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
+| [0981-time-based-key-value-store](https://github.com/availablefortesting/premium_dsa/tree/master/0981-time-based-key-value-store) |
 | [0984-string-without-aaa-or-bbb](https://github.com/availablefortesting/premium_dsa/tree/master/0984-string-without-aaa-or-bbb) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/availablefortesting/premium_dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1405-longest-happy-string](https://github.com/availablefortesting/premium_dsa/tree/master/1405-longest-happy-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/availablefortesting/premium_dsa/tree/master/0729-my-calendar-i) |
 | [0900-rle-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0900-rle-iterator) |
+| [0981-time-based-key-value-store](https://github.com/availablefortesting/premium_dsa/tree/master/0981-time-based-key-value-store) |
 | [1622-fancy-sequence](https://github.com/availablefortesting/premium_dsa/tree/master/1622-fancy-sequence) |
 ## Iterator
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/availablefortesting/premium_dsa/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
+| [0981-time-based-key-value-store](https://github.com/availablefortesting/premium_dsa/tree/master/0981-time-based-key-value-store) |
 | [1001-grid-illumination](https://github.com/availablefortesting/premium_dsa/tree/master/1001-grid-illumination) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/availablefortesting/premium_dsa/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
 | [0729-my-calendar-i](https://github.com/availablefortesting/premium_dsa/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/availablefortesting/premium_dsa/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/availablefortesting/premium_dsa/tree/master/0981-time-based-key-value-store) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
 ## Doubly-Linked List
 |  |
