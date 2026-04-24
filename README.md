@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/availablefortesting/premium_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/availablefortesting/premium_dsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/availablefortesting/premium_dsa/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/availablefortesting/premium_dsa/tree/master/0224-basic-calculator) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/availablefortesting/premium_dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/availablefortesting/premium_dsa/tree/master/0051-n-queens) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/availablefortesting/premium_dsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/availablefortesting/premium_dsa/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
