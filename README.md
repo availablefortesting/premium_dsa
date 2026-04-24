@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/availablefortesting/premium_dsa/tree/master/0729-my-calendar-i) |
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
+| [0875-koko-eating-bananas](https://github.com/availablefortesting/premium_dsa/tree/master/0875-koko-eating-bananas) |
 | [0900-rle-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0900-rle-iterator) |
 | [0905-sort-array-by-parity](https://github.com/availablefortesting/premium_dsa/tree/master/0905-sort-array-by-parity) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/availablefortesting/premium_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
 | [0729-my-calendar-i](https://github.com/availablefortesting/premium_dsa/tree/master/0729-my-calendar-i) |
+| [0875-koko-eating-bananas](https://github.com/availablefortesting/premium_dsa/tree/master/0875-koko-eating-bananas) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
 ## Doubly-Linked List
 |  |
