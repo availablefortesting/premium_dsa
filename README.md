@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/availablefortesting/premium_dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/availablefortesting/premium_dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/availablefortesting/premium_dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/availablefortesting/premium_dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
