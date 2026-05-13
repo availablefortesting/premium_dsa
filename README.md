@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
 | [0256-paint-house](https://github.com/availablefortesting/premium_dsa/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0265-paint-house-ii) |
+| [0276-paint-fence](https://github.com/availablefortesting/premium_dsa/tree/master/0276-paint-fence) |
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/availablefortesting/premium_dsa/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
