@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/availablefortesting/premium_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/availablefortesting/premium_dsa/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/availablefortesting/premium_dsa/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/availablefortesting/premium_dsa/tree/master/0224-basic-calculator) |
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/availablefortesting/premium_dsa/tree/master/0051-n-queens) |
+| [0139-word-break](https://github.com/availablefortesting/premium_dsa/tree/master/0139-word-break) |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
 | [0256-paint-house](https://github.com/availablefortesting/premium_dsa/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0265-paint-house-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/availablefortesting/premium_dsa/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/availablefortesting/premium_dsa/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/availablefortesting/premium_dsa/tree/master/0139-word-break) |
 | [0256-paint-house](https://github.com/availablefortesting/premium_dsa/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/availablefortesting/premium_dsa/tree/master/0276-paint-fence) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/availablefortesting/premium_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/availablefortesting/premium_dsa/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/availablefortesting/premium_dsa/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/availablefortesting/premium_dsa/tree/master/0706-design-hashmap) |
@@ -338,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/availablefortesting/premium_dsa/tree/master/0473-matchsticks-to-square) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/availablefortesting/premium_dsa/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/availablefortesting/premium_dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
