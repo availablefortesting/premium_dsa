@@ -1,4 +1,8 @@
 class Solution {
+    /*
+        0-6 months: LinkedIn (4) Amazon (2) Navan (2)
+        6 months ago: Citadel (3) Google (2) Microsoft (2) Uber (2) Shopify (2)
+    */
     private int[][] costs;
     private int n, m;
     private Integer[][] memo;
