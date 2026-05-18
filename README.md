@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/availablefortesting/premium_dsa/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/availablefortesting/premium_dsa/tree/master/0224-basic-calculator) |
 | [0556-next-greater-element-iii](https://github.com/availablefortesting/premium_dsa/tree/master/0556-next-greater-element-iii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/availablefortesting/premium_dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/availablefortesting/premium_dsa/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/availablefortesting/premium_dsa/tree/master/0224-basic-calculator) |
 ## Bitmask
 |  |
