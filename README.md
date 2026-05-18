@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/availablefortesting/premium_dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/availablefortesting/premium_dsa/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/availablefortesting/premium_dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/availablefortesting/premium_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/availablefortesting/premium_dsa/tree/master/0040-combination-sum-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/availablefortesting/premium_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/availablefortesting/premium_dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/availablefortesting/premium_dsa/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/availablefortesting/premium_dsa/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/availablefortesting/premium_dsa/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/availablefortesting/premium_dsa/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/availablefortesting/premium_dsa/tree/master/0443-string-compression) |
