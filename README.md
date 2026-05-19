@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/availablefortesting/premium_dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/availablefortesting/premium_dsa/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/availablefortesting/premium_dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/availablefortesting/premium_dsa/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
+| [2540-minimum-common-value](https://github.com/availablefortesting/premium_dsa/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/availablefortesting/premium_dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/availablefortesting/premium_dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/availablefortesting/premium_dsa/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/availablefortesting/premium_dsa/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/availablefortesting/premium_dsa/tree/master/0981-time-based-key-value-store) |
+| [2540-minimum-common-value](https://github.com/availablefortesting/premium_dsa/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
 ## Doubly-Linked List
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0696-count-binary-substrings](https://github.com/availablefortesting/premium_dsa/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/availablefortesting/premium_dsa/tree/master/0905-sort-array-by-parity) |
+| [2540-minimum-common-value](https://github.com/availablefortesting/premium_dsa/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
