@@ -18,4 +18,25 @@ class Solution {
         }
         return res;
     }
+    // REVERSE DP
+    private List<Integer> findCoinsRDP(int[] numWays) {
+        int n = numWays.length;
+        int[] dp = new int[n + 1];
+        ArrayList<Integer> coins = new ArrayList<>();
+        dp[0] = 1;
+
+        // start to check from smallest coin  possible to max coin
+        for (int i = 0; i < n; i++) {
+            int amount = i + 1;
+            if ( numWays[i] > 0 && dp[amount] == numWays[i] - 1) {
+                coins.add(amount);
+                for (int coin = amount; coin <= n; coin++) {
+                    dp[coin] += dp[coin - amount];
+                }
+            }
+
+            if (dp[amount] != numWays[i]) return new ArrayList<>();
+        }
+        return coins;
+    }
 }
