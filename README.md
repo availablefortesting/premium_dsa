@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/availablefortesting/premium_dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/availablefortesting/premium_dsa/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3488-closest-equal-element-queries](https://github.com/availablefortesting/premium_dsa/tree/master/3488-closest-equal-element-queries) |
+| [3592-inverse-coin-change](https://github.com/availablefortesting/premium_dsa/tree/master/3592-inverse-coin-change) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/availablefortesting/premium_dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/availablefortesting/premium_dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Greedy
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/availablefortesting/premium_dsa/tree/master/3183-the-number-of-ways-to-make-the-sum) |
+| [3592-inverse-coin-change](https://github.com/availablefortesting/premium_dsa/tree/master/3592-inverse-coin-change) |
 ## Math
 |  |
 | ------- |
