@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/availablefortesting/premium_dsa/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/availablefortesting/premium_dsa/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/availablefortesting/premium_dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/availablefortesting/premium_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/availablefortesting/premium_dsa/tree/master/0414-third-maximum-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0276-paint-fence](https://github.com/availablefortesting/premium_dsa/tree/master/0276-paint-fence) |
 | [0300-longest-increasing-subsequence](https://github.com/availablefortesting/premium_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/availablefortesting/premium_dsa/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/availablefortesting/premium_dsa/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/availablefortesting/premium_dsa/tree/master/0354-russian-doll-envelopes) |
 | [0473-matchsticks-to-square](https://github.com/availablefortesting/premium_dsa/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/availablefortesting/premium_dsa/tree/master/0494-target-sum) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/availablefortesting/premium_dsa/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/availablefortesting/premium_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 ## Ordered Set
 |  |
