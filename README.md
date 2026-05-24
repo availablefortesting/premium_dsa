@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-grid-illumination](https://github.com/availablefortesting/premium_dsa/tree/master/1001-grid-illumination) |
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/availablefortesting/premium_dsa/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/availablefortesting/premium_dsa/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/availablefortesting/premium_dsa/tree/master/1345-jump-game-iv) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/availablefortesting/premium_dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/availablefortesting/premium_dsa/tree/master/0759-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/availablefortesting/premium_dsa/tree/master/0905-sort-array-by-parity) |
+| [1340-jump-game-v](https://github.com/availablefortesting/premium_dsa/tree/master/1340-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/availablefortesting/premium_dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/availablefortesting/premium_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/availablefortesting/premium_dsa/tree/master/0968-binary-tree-cameras) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/availablefortesting/premium_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/availablefortesting/premium_dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/availablefortesting/premium_dsa/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/availablefortesting/premium_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
