@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-grid-illumination](https://github.com/availablefortesting/premium_dsa/tree/master/1001-grid-illumination) |
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/availablefortesting/premium_dsa/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/availablefortesting/premium_dsa/tree/master/1345-jump-game-iv) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/availablefortesting/premium_dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/availablefortesting/premium_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/availablefortesting/premium_dsa/tree/master/0981-time-based-key-value-store) |
 | [1001-grid-illumination](https://github.com/availablefortesting/premium_dsa/tree/master/1001-grid-illumination) |
+| [1345-jump-game-iv](https://github.com/availablefortesting/premium_dsa/tree/master/1345-jump-game-iv) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/availablefortesting/premium_dsa/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/availablefortesting/premium_dsa/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/availablefortesting/premium_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [1306-jump-game-iii](https://github.com/availablefortesting/premium_dsa/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/availablefortesting/premium_dsa/tree/master/1345-jump-game-iv) |
 ## Ordered Set
 |  |
 | ------- |
