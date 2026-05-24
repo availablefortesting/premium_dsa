@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/availablefortesting/premium_dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/availablefortesting/premium_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1696-jump-game-vi](https://github.com/availablefortesting/premium_dsa/tree/master/1696-jump-game-vi) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/availablefortesting/premium_dsa/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/availablefortesting/premium_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/availablefortesting/premium_dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/availablefortesting/premium_dsa/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/availablefortesting/premium_dsa/tree/master/1405-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/availablefortesting/premium_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1696-jump-game-vi](https://github.com/availablefortesting/premium_dsa/tree/master/1696-jump-game-vi) |
 ## Design
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/availablefortesting/premium_dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/availablefortesting/premium_dsa/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/availablefortesting/premium_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1696-jump-game-vi](https://github.com/availablefortesting/premium_dsa/tree/master/1696-jump-game-vi) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/availablefortesting/premium_dsa/tree/master/3183-the-number-of-ways-to-make-the-sum) |
@@ -328,10 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/availablefortesting/premium_dsa/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/availablefortesting/premium_dsa/tree/master/1696-jump-game-vi) |
 ## Binary Indexed Tree
 |  |
 | ------- |
