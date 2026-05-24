@@ -33,6 +33,8 @@ class Solution {
         int n = s.length(), pre = 0;
         boolean[] dp = new boolean[n];
         dp[0] = true;
+
+        // pre means the number of previous position that we can jump from.
         for (int i = 1; i < n; ++i) {
             if (i >= minJ && dp[i - minJ])
                 pre++;
