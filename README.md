@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/availablefortesting/premium_dsa/tree/master/1405-longest-happy-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/availablefortesting/premium_dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/availablefortesting/premium_dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/availablefortesting/premium_dsa/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/availablefortesting/premium_dsa/tree/master/1980-find-unique-binary-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/availablefortesting/premium_dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/availablefortesting/premium_dsa/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/availablefortesting/premium_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1696-jump-game-vi](https://github.com/availablefortesting/premium_dsa/tree/master/1696-jump-game-vi) |
+| [1871-jump-game-vii](https://github.com/availablefortesting/premium_dsa/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/availablefortesting/premium_dsa/tree/master/3183-the-number-of-ways-to-make-the-sum) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/availablefortesting/premium_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/availablefortesting/premium_dsa/tree/master/0239-sliding-window-maximum) |
+| [1871-jump-game-vii](https://github.com/availablefortesting/premium_dsa/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/availablefortesting/premium_dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Segment Tree
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1000-minimum-cost-to-merge-stones](https://github.com/availablefortesting/premium_dsa/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1871-jump-game-vii](https://github.com/availablefortesting/premium_dsa/tree/master/1871-jump-game-vii) |
 | [2488-count-subarrays-with-median-k](https://github.com/availablefortesting/premium_dsa/tree/master/2488-count-subarrays-with-median-k) |
 ## Breadth-First Search
 |  |
