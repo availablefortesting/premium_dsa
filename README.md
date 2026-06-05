@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/availablefortesting/premium_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3183-the-number-of-ways-to-make-the-sum](https://github.com/availablefortesting/premium_dsa/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3592-inverse-coin-change](https://github.com/availablefortesting/premium_dsa/tree/master/3592-inverse-coin-change) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/availablefortesting/premium_dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/availablefortesting/premium_dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/availablefortesting/premium_dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1622-fancy-sequence](https://github.com/availablefortesting/premium_dsa/tree/master/1622-fancy-sequence) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/availablefortesting/premium_dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
 | ------- |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/availablefortesting/premium_dsa/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/availablefortesting/premium_dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
